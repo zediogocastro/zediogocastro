@@ -6,7 +6,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josediogocastro/)
 [![blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
-)](https://www.linkedin.com/in/josediogocastro/)
+)](https://vagabond-cylinder-abb.notion.site/Model-Deployment-113bca4b6ae94ad7930041d7997a7458?pvs=74)
 
 
 <!---
