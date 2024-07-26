@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zediogocastro
-- 👀 I’m interested in Artificial Inteligence and Data Science
-- 🌱 I’m currently engineering Data Science at I.S.T Lisbon, Portugal
+- 🎓 Mastered in Artificial Inteligence and Data Science by I.S.T Lisbon, Portugal
+- 🌱 I’m currently engineering Data Science at Fraudio
 - 💞️ I love data and music!
 - 📫 How to reach me: zediogo2@gmail.com
 
