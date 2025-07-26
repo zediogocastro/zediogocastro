@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zediogocastro
 - 🎓 Mastered in Artificial Inteligence and Data Science by I.S.T Lisbon, Portugal
-- 🌱 I’m currently engineering Data Science at Fraudio
+- 🏎️ I’m currently engineering Data Science at BMW / Critical Techworks!
 - 💞️ I love data and music!
 - 📫 How to reach me: zediogo2@gmail.com 
 
